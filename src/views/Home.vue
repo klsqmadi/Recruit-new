@@ -3,7 +3,7 @@
     <v-navigation-drawer v-model="drawer" app class="blue-grey darken-4">
       <v-card tile class="blue-grey darken-4" flat>
         <v-card-title class="text-h2 justify-center blue-grey--text"
-          >AAA</v-card-title
+          >AAAAA</v-card-title
         >
         <v-list dense nav class="blue-grey darken-4">
           <v-list-item-group v-model="selectedItem" mandatory>
