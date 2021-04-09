@@ -3,5 +3,5 @@ module.exports = {
     'vuetify'
   ],
   publicPath: './',
-  productionSourceMap:false
+  productionSourceMap: false
 }
