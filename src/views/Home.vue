@@ -2,7 +2,7 @@
   <v-app>
     <v-navigation-drawer v-model="drawer" app class="blue-grey darken-4">
       <v-card tile class="blue-grey darken-4" flat>
-        <v-card-title class="text-h2 justify-center blue-grey--text" >BAT</v-card-title>
+        <v-card-title class="text-h2 justify-center blue-grey--text" >BBBBAT</v-card-title>
         <v-list dense nav class="blue-grey darken-4">
           <v-list-item-group v-model="selectedItem" mandatory>
             <v-list-item v-for="(item,index) in navigationDrawer" :key="index" :to="item.route">
